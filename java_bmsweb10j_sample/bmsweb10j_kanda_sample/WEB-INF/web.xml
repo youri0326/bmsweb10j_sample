@@ -1,0 +1,12 @@
+<web-app>
+
+	<servlet>
+		<servlet-name>listMapping</servlet-name>
+		<servlet-class>bms.ListServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>listMapping</servlet-name>
+		<url-pattern>/list</url-pattern>
+	</servlet-mapping>
+
+</web-app>
