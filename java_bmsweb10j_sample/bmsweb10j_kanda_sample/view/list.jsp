@@ -44,7 +44,7 @@
 				<th bgcolor="#6666ff" width="200">isbn</th>
 				<th bgcolor="#6666ff" width="200">title</th>
 				<th bgcolor="#6666ff" width="200">価格</th>
-				<th bgcolor="#6666ff" width="250" colspan="2">変更/削除</th>
+				<th bgcolor="#6666ff" width="250" colspan="2">変更/削除 変更点</th>
 			</tr>
 			<%
 			ArrayList<Book> list =(ArrayList<Book>)request.getAttribute("book_list");
