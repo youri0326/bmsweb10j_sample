@@ -1,7 +1,7 @@
 <%@page contentType="text/html;charset=UTF-8" %>
 <html>
 	<head>
-		<title>書籍管理メニュー画面</title>
+		<title>書籍管理メニュー画面 a</title>
 	</head>
 	<body>
 		<h1 align="center">書籍管理システムweb版ver.1.0</h1>
